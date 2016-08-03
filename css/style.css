@@ -1,5 +1,19 @@
+.intro{
+  text-align: center;
+  text-shadow: .5;
+  display: block;
+  margin: auto;
+}
+
+a{
+  color: white;
+}
+
 body{
   font-family: sans-serif;
+  background-image: url("/Users/Guest/desktop/pet-website/img/Rosefield.jpg");
+  color: white;
+  background-size: cover;
 }
 
 h1{
